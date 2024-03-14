@@ -1,0 +1,12 @@
+{
+  "name": "12-projects-screen-shorts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "git add . && git commit -m 'updated' && git push -u o v1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
